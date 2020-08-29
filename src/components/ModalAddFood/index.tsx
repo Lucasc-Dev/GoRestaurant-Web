@@ -42,7 +42,7 @@ const ModalAddFood: React.FC<IModalProps> = ({
         available: true,
       }
 
-      handleAddFood(food);
+      handleAddFood(data);
       setIsOpen();
     },
     [handleAddFood, setIsOpen],
