@@ -23,6 +23,41 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "1",
+      "name": "2",
+      "price": "3",
+      "description": "4",
+      "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Comida",
+      "price": "25,00",
+      "description": "Comida da boa",
+      "id": 5
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Comida 2",
+      "price": "20,00",
+      "description": "Comida 2",
+      "id": 6
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "1",
+      "price": "2",
+      "description": "3",
+      "id": 7
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "11",
+      "price": "22",
+      "description": "33",
+      "id": 8
     }
   ]
 }
